@@ -1,6 +1,6 @@
 pip install requests
 replace your [API_KEY](https://platform.openai.com/account/api-keys)
-
+for more examples, see [Here](https://github.com/microsoft/TaskMatrix/blob/main/visual_chatgpt.py)
 python index.py
 example: input -> I want to generate a duck
 output:
